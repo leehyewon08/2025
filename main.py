@@ -1,3 +1,4 @@
+pip install streamlit
 # --- 메인 타이틀 ---
 st.title("💖 MBTI 환상의 궁합 테스트 ✨")
 st.markdown("### 당신과 그/그녀의 MBTI 궁합은 과연...?! 두근두근! 💌")
